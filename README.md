@@ -16,8 +16,6 @@ Autoencoder to denoise noisy images, we add noise to the training examples befor
 
 ## Training Loss
 
-Training Cycles
 ![alt text](https://raw.githubusercontent.com/ppvalluri09/Denoising-Autoencoder/master/images/training.png)
 
-Training Loss over time
 ![alt text](https://raw.githubusercontent.com/ppvalluri09/Denoising-Autoencoder/master/images/loss.png)
