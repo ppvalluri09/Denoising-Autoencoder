@@ -12,12 +12,12 @@ Autoencoder to denoise noisy images, we add noise to the training examples befor
 
 ## AutoEncoder Architecture
 
-
+![alt text](https://raw.githubusercontent.com/ppvalluri09/Denoising-Autoencoder/master/images/model.png)
 
 ## Training Loss
 
-<center><p>Training Cycles</p></center>
+<p>Training Cycles</p>
 ![alt text](https://raw.githubusercontent.com/ppvalluri09/Denoising-Autoencoder/master/images/training.png)
 
-<center><p>Training Loss over time</p></center>
+<p>Training Loss over time</p>
 ![alt text](https://raw.githubusercontent.com/ppvalluri09/Denoising-Autoencoder/master/images/loss.png)
